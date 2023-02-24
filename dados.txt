@@ -1,11 +1,12 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Graziella Dias
+-Profissão: Social Media
+-Cidade: São Paulo/SP
+-O que faz nas horas vagas: Leio, assisto filmes,séries e estudo teste de Software. 
+-Feedback sobre o curso Qualidade de Software: Ótimo! Não vejo a hora de trabalhar na área.
+-Feedback sobre a plataforma de estudo da EBAC: Ótima, único adendo: depois de fazer algumas aulas a 
+música de abertura se torna irritante rsrs, mas nada grave. 
 
 Obrigado!!!
 
